@@ -53,7 +53,7 @@ params:
 
     footer:
         since: 2023
-        customText:
+        customText: everyday is a new day
 
     dateFormat:
         published: 2006-01-02
@@ -65,7 +65,7 @@ params:
         avatar:
             enabled: true
             local: true
-            src: img/avatar.jpg
+            src: img/avatar.png
 
     article:
         math: false
