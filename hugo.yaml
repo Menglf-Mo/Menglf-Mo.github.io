@@ -1,6 +1,6 @@
-baseurl:  https://Menglf-Mo.github.io
+baseurl:  https://Menglf-Mo.github.io/
 languageCode: en-us
-theme: hugo-theme-stack
+theme: hugo-theme-stack-3.26.0
 title: Menglf-mo
 copyright: Menglf-mo Person
 
