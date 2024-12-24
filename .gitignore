@@ -4,4 +4,4 @@ resources
 .hugo_build.lock
 
 # hugo命令
-hugo.exe
+# hugo.exe
